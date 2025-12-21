@@ -2,7 +2,7 @@
 
 ## 📋 Descripción del Proyecto
 
-Digital Horizons 2025 es una landing page moderna y responsiva diseñada para promocionar un evento tecnológico de vanguardia. La página presenta información sobre conferencias, ponentes confirmados, agenda del evento y permite el registro de asistentes.
+Digital Horizons 2025 es una landing page creada para practicar diseño responsive, CSS moderno y estructura semántica, simulando un evento tecnológico real.
 
 ## ✨ Características
 
@@ -11,8 +11,7 @@ Digital Horizons 2025 es una landing page moderna y responsiva diseñada para pr
 - **Formulario de Registro**: Formulario funcional para captura de leads
 - **Perfiles de Ponentes**: Cards interactivas con información de los speakers
 - **Agenda del Evento**: Lista visual de los temas a tratar
-- **Optimización SEO**: Meta tags completos y Open Graph para redes sociales
-- **Accesibilidad**: Etiquetas semánticas y aria-labels apropiados
+- **Optimización SEO**: Meta tags completos y Open Graph para redes sociales, etiquetas semánticas y aria-labels apropiados
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -74,11 +73,7 @@ landing page/
 
 ## 📱 Responsive Design
 
-La landing page está optimizada para diferentes tamaños de pantalla:
-
-- **Desktop**: ≥ 1200px - Layout completo con grid de 3 columnas para speakers
-- **Tablet**: 768px - 1199px - Grid adaptativo
-- **Mobile**: ≤ 767px - Layout de una columna
+Optimizado para desktop, tablet y mobile mediante media queries.
 
 ## 🎨 Paleta de Colores
 
@@ -150,26 +145,19 @@ Edita las variables CSS en `style.css`:
 - **Performance**: Imágenes optimizadas, CSS minificado
 - **SEO**: Meta tags completos, estructura semántica
 - **Accesibilidad**: Alt texts, labels, contraste adecuado
-- **UX**: Animaciones suaves, feedback visual en hover
 
-## 🌐 Compatibilidad
+## 🧠 Qué aprendí con este proyecto
 
-- ✅ Chrome 80+
-- ✅ Firefox 75+
-- ✅ Safari 13+
-- ✅ Edge 80+
-- ✅ iOS Safari 13+
-- ✅ Chrome Android 80+
-
-## 📞 Soporte
-
-Para soporte técnico o preguntas sobre el proyecto, contacta al equipo de desarrollo.
+- A estructurar una landing page usando HTML semántico para mejorar accesibilidad y SEO.
+- A combinar CSS Grid y Flexbox según el tipo de layout.
+- A diseñar componentes reutilizables como cards y formularios.
+- A aplicar diseño responsive desde desktop hacia mobile.
+- A mantener consistencia visual usando variables CSS.
 
 ## 👨‍💻 Créditos
 
 **Desarrollado por**: Daphne De Jesus  
-**Año**: 2026  
-**Diseño**: Digital Horizons Team
+**Año**: 2026
 
 ## 📄 Licencia
 
@@ -178,5 +166,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 ---
 
 ⭐ **¡Gracias por usar Digital Horizons 2025 Landing Page!** ⭐
-
-_Creado con ❤️ para promover la innovación tecnológica_
