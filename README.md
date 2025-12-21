@@ -1,7 +1,5 @@
 # Digital Horizons 2025 - Landing Page
 
-![Digital Horizons 2025](./imagenes/logo%20nav.svg)
-
 ## 📋 Descripción del Proyecto
 
 Digital Horizons 2025 es una landing page moderna y responsiva diseñada para promocionar un evento tecnológico de vanguardia. La página presenta información sobre conferencias, ponentes confirmados, agenda del evento y permite el registro de asistentes.
