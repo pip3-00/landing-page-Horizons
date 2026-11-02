@@ -6,6 +6,8 @@ Digital Horizons 2025 es una landing page creada para practicar diseño responsi
 
 ## ✨ Características
 
+Demo: https://pip3-00.github.io/landing-page-Horizons/
+
 - **Diseño Responsivo**: Optimizado para dispositivos móviles, tablets y desktop
 - **Interfaz Moderna**: Utiliza gradientes, animaciones CSS y efectos visuales
 - **Formulario de Registro**: Formulario funcional para captura de leads
